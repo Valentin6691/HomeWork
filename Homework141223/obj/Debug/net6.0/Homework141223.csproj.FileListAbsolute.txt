@@ -1,0 +1,15 @@
+C:\Users\ALFA\Desktop\Homework12\Homework141223\obj\Debug\net6.0\Homework141223.csproj.AssemblyReference.cache
+C:\Users\ALFA\Desktop\Homework12\Homework141223\obj\Debug\net6.0\Homework141223.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALFA\Desktop\Homework12\Homework141223\obj\Debug\net6.0\Homework141223.AssemblyInfoInputs.cache
+C:\Users\ALFA\Desktop\Homework12\Homework141223\obj\Debug\net6.0\Homework141223.AssemblyInfo.cs
+C:\Users\ALFA\Desktop\Homework12\Homework141223\obj\Debug\net6.0\Homework141223.csproj.CoreCompileInputs.cache
+C:\Users\ALFA\Desktop\Homework12\Homework141223\bin\Debug\net6.0\Homework141223.exe
+C:\Users\ALFA\Desktop\Homework12\Homework141223\bin\Debug\net6.0\Homework141223.deps.json
+C:\Users\ALFA\Desktop\Homework12\Homework141223\bin\Debug\net6.0\Homework141223.runtimeconfig.json
+C:\Users\ALFA\Desktop\Homework12\Homework141223\bin\Debug\net6.0\Homework141223.dll
+C:\Users\ALFA\Desktop\Homework12\Homework141223\bin\Debug\net6.0\Homework141223.pdb
+C:\Users\ALFA\Desktop\Homework12\Homework141223\obj\Debug\net6.0\Homework141223.dll
+C:\Users\ALFA\Desktop\Homework12\Homework141223\obj\Debug\net6.0\refint\Homework141223.dll
+C:\Users\ALFA\Desktop\Homework12\Homework141223\obj\Debug\net6.0\Homework141223.pdb
+C:\Users\ALFA\Desktop\Homework12\Homework141223\obj\Debug\net6.0\Homework141223.genruntimeconfig.cache
+C:\Users\ALFA\Desktop\Homework12\Homework141223\obj\Debug\net6.0\ref\Homework141223.dll
