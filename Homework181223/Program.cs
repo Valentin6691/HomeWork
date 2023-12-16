@@ -62,18 +62,38 @@
 // которая покажет количество чётных чисел в 
 // массив
 
+// Console.WriteLine("Введите размер массива");
+// int num = Convert.ToInt32(Console.ReadLine());
+// int[] array = new int[num];
+// int result = 0;
+// for(int i = 0; i<array.Length; i++)
+// {
+//     array[i] = new Random().Next(100,1000);
+//     Console.Write(array[i] + " ");
+//     if(array[i]%2 == 0)
+//     {
+//         result = result + 1;
+//     }
+// }
+// Console.WriteLine("");
+// Console.WriteLine(result);
+
+// Задача 3: Напишите программу, которая перевернёт 
+// одномерный массив (первый элемент станет 
+// последним, второй – предпоследним и т.д.)
+
 Console.WriteLine("Введите размер массива");
 int num = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[num];
-int result = 0;
+int[] array1 = new int[num];
 for(int i = 0; i<array.Length; i++)
 {
-    array[i] = new Random().Next(100,1000);
+    array[i] = new Random().Next(10,100);
     Console.Write(array[i] + " ");
-    if(array[i]%2 == 0)
-    {
-        result = result + 1;
-    }
 }
-Console.WriteLine("");
-Console.WriteLine(result);
+Console.WriteLine();
+for(int i = 0; i<array.Length; i++)
+{
+    array1[i] = array[array.Length - i - 1];
+    Console.Write(array1[i] + " ");
+}
